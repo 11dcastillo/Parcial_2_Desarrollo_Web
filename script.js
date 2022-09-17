@@ -3,7 +3,7 @@ url = "https://api.themoviedb.org/3/" // URL base para las peticiones
 api_key = "55a7b3e714660313cd57401445c3d938" // Token de acceso 
 language = "es-ES" // Lenguaje de la API
 image_language = "es,null" // Lenguaje de las imagenes
-image_url = "https://image.tmdb.org/t/p/w500" // URL base para las imagenes
+image_url = "https://image.tmdb.org/t/p/w500" // URL base para las imagen
 page = 1 // Pagina actual
 namesGenres = [] // Arreglo de objetos con los nombres de las categorias
 
